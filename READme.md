@@ -1,0 +1,1 @@
+This is a Python version of the school-age game MASH (Mansion, Apartment, Shack, House). Simply input info according to the prompts to find out what the future holds for you. This is a terminal-centric game.
